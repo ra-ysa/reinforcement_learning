@@ -1007,4 +1007,3 @@
 | value_loss         | 3.13e-05  |
 ----------------------------------
 Tempo total de treinamento: 22.369824409484863 segundos
-Loading a model without an environment, this model cannot be trained until it has a valid environment.
